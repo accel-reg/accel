@@ -67,7 +67,7 @@
 
 ## 📫 Connect / Contact
 
-- 📧 Email: *(add your email here)*
+- 📧 Email: navaneethkrishnamm@gmail.com
 - 🌐 Portfolio: *(optional)*
 
 ---
